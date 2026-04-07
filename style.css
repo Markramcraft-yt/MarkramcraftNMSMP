@@ -1,0 +1,48 @@
+body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: cyan;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+    margin-top: 20px;
+}
+
+p {
+    color: brown;
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: square;
+    color: purple;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+button {
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+} 
+
+h3 {
+    color: red;
+    margin-top: 15px;
+}
